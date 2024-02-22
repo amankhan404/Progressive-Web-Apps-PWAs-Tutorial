@@ -1,0 +1,22 @@
+{
+    "name":"Text-To-Speech-Converter",
+    "short_name":"Text-To-speech APP",
+    "start_url":"index.html",
+    "display":"standalone",
+    "background_color":"#fafa05",
+    "theme_color":"black",
+    "scope": ".",
+    "description":"This App Converts Text Into Speech",
+    "icons":[
+    {
+    "src":"images/logo192.png",                     
+    "sizes":"192x192",
+    "type":"image/png"
+    },
+    {
+    "src":"images/logo512.png",
+    "sizes":"512x512",
+    "type":"image/png"
+    }
+  ]
+}
